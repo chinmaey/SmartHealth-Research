@@ -63,4 +63,4 @@ The **SmartHealth-Research** project highlights the **feasibility of using senso
 - Deploying a **real-time monitoring system** using smartphone and wearable integration.  
 ---
 
-This repository will include **research papers, data processing scripts, and machine learning models** for further development in **smart and connected health**.
+This repository will include **research papers**.
